@@ -12,7 +12,7 @@ A Static Website For An AI Company   <br />
     <a href="https://github.com/RemonMatthias/Next-Static-Website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://l-assiette-react-app.web.app/">View Demo</a>
+    <a href="next-static-website-d7a1d.web.app">View Demo</a>
 
   </p>
 </p>
@@ -38,15 +38,15 @@ A Static Website For An AI Company   <br />
 <p>
     <img src="dist/images/Screenshot.png" width="850" height="472.266" />
 </p>
-L'Assiette is a single-page app created using reactjs . it has a simple yet elegant and modern design . It was built with a keen attention to details, incorporating modern technologies and abiding by the best coding practices, some of the features include smooth scrolling and simple animations.
+Next is a very simple static landing page , it has a simple yet elegant and modern design. Implementing the super powers of a css preprocessor like "Sass" , by using utility classes and variables along with an organized and clean HTML markup following best practices.
 
 ### Built With
 
-L'Assiette has been build using modern technologies such as :
+Next has been built using modern technologies such as :
 
-- [React js](https://reactjs.org/)
-- [Styled-Components](https://styled-components.com/)
-- [React-scroll](https://www.npmjs.com/package/react-scroll)
+- [HTML]()
+- [Sass](https://sass-lang.com/)
+- [Javascript](https://www.javascript.com/)
 
 ## Author
 
