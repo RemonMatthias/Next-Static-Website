@@ -1,0 +1,65 @@
+// Global Resets
+
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.3;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+// variables
+
+$primary-color: #ff8177;
+$secondary-color: #f77062;
+$background-main-color: #240836;
+$background-secondary-color: #3a062d;
+
+// utility classes
+
+.flex {
+  display: flex;
+
+  &-jc-c {
+    justify-content: center;
+  }
+  &-jc-sb {
+    justify-content: space-between;
+  }
+  &-jc-sa {
+    justify-content: space-around;
+  }
+  &-ai-c {
+    align-items: center;
+  }
+  &-ai-fs {
+    align-items: flex-start;
+  }
+}
+
+.grid {
+  display: grid;
+
+  &-jc-c {
+    justify-content: center;
+  }
+  &-jc-sb {
+    justify-content: space-between;
+  }
+  &-jc-sa {
+    justify-content: space-around;
+  }
+  &-ai-c {
+    align-items: center;
+  }
+}
