@@ -12,7 +12,7 @@ A Static Website For An AI Company   <br />
     <a href="https://github.com/RemonMatthias/Next-Static-Website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="next-static-website-d7a1d.web.app">View Demo</a>
+    <a href="next-static-website-d7a1d.firebaseapp.com">View Demo</a>
 
   </p>
 </p>
